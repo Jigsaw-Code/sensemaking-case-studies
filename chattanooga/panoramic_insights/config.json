@@ -1,0 +1,241 @@
+{
+  "file_sources": {
+    "chattanooga_311_service_requests.csv": {
+      "description": "Municipal 311 service request log containing citizen complaints and city service requests (e.g., potholes, streetlights, trash removal, drainage, and parking).",
+      "source_url": "Chattanooga 311 data, November 2025 through July 2026",
+      "path": "/data/chattanooga_311_service_requests.csv",
+      "describe_as": "the city's 311 records from November 2025 to July 2026",
+      "do_not_caveat": "gaps or caps in monthly coverage, which the city has already explained"
+    },
+    "traffic_and_pedestrian_incidents.csv": {
+      "description": "Historical traffic incidents and accident log detailing motor vehicle collisions, pedestrian incidents, and road hazards.",
+      "source_url": "https://drive.google.com/file/d/12XZnnla129u-LGMeuFD7u6Q-THslc60G/view?usp=drivesdk",
+      "path": "/data/traffic_and_pedestrian_incidents.csv"
+    },
+    "police_incident_reports.csv": {
+      "description": "Police crime and incident logs documenting reported criminal offenses, public safety calls, and municipal code violations.",
+      "source_url": "https://drive.google.com/file/d/1PbPFUeT4pINiSEOXQBPDkAcZxEWbGxAD/view?usp=drivesdk",
+      "path": "/data/police_incident_reports.csv"
+    },
+    "Chattanooga TN Feasibility Study 041425 Dec 2025 tax updates.pdf": {
+      "description": "Parking Feasibility and Tax Updates study detailing fiscal projections, parking meter rates, demand analyses, and estimated sales tax offsets.",
+      "source_url": "https://drive.google.com/file/d/1C2KuCg_5lMAR4418fR8dVta9GCnKO22F/view?usp=drivesdk",
+      "path": "/data/Chattanooga TN Feasibility Study 041425 Dec 2025 tax updates.pdf"
+    },
+    "Transcript - Chattanooga City Council Business Meeting - 03_17_2026.txt": {
+      "description": "Official transcript of the Chattanooga City Council Business Meeting on March 17, 2026, containing citizen proposals, council proceedings, ordinances, and votes.",
+      "source_url": "https://drive.google.com/file/d/1l0elwe-xsItnatpqOmxxEAZ1TNag49hV/view?usp=drivesdk",
+      "path": "/data/Transcript - Chattanooga City Council Business Meeting - 03_17_2026.txt"
+    },
+    "Transcript - Chattanooga City Council Business Meeting - 04_14_2026.txt": {
+      "description": "Official transcript of the Chattanooga City Council Business Meeting on April 14, 2026, containing citizen proposals, council proceedings, ordinances, and votes.",
+      "source_url": "https://drive.google.com/file/d/1KMOj7pPSscBnfIFzzSAdLCRj6nX2kyFk/view?usp=drivesdk",
+      "path": "/data/Transcript - Chattanooga City Council Business Meeting - 04_14_2026.txt"
+    },
+    "ChattanoogaCategorizedWithoutOtherTransportationPostsOnly_categorized_without_other_filtered.csv": {
+      "description": "Filtered citizen survey text and civic feedback posts focused exclusively on Transportation topics (e.g., transit, roads, buses, traffic).",
+      "source_url": "https://drive.google.com/file/d/1dQ4TWMi-lsOTA-s0k2e6oDr6vwU7VKEq/view?usp=drivesdk",
+      "path": "/data/ChattanoogaCategorizedWithoutOtherTransportationPostsOnly_categorized_without_other_filtered.csv",
+      "evidence_use": "context_only"
+    },
+    "ChattanoogaCategorizedWithoutOtherParksPostsOnly_categorized_without_other_filtered.csv": {
+      "description": "Filtered citizen survey text and civic feedback posts focused exclusively on Parks and Recreation topics.",
+      "source_url": "https://drive.google.com/file/d/1wtRZtLKT5LspxRccdRq5MEV8pS-LcZjl/view?usp=drivesdk",
+      "path": "/data/ChattanoogaCategorizedWithoutOtherParksPostsOnly_categorized_without_other_filtered.csv",
+      "evidence_use": "context_only"
+    },
+    "chattanooga_charter_and_code_legal_framing_notes.md": {
+      "description": "This legal framing note establishes ground truth holdings and code currency anchors for the Chattanooga City Code as of April 2026. It details critical municipal powers and liabilities regarding sidewalk maintenance, repair, and clear-zone requirements under Chapter 32 of the City Code. Research agents should consult this document to verify statutory baselines and property owner responsibilities before analyzing local pedestrian infrastructure policies.",
+      "source_url": "https://drive.google.com/file/d/17jedcqS7K56HI6VS0-ksFVp5sk2SWg8A/view?usp=drivesdk",
+      "path": "/data/chattanooga_charter_and_code_legal_framing_notes.md"
+    },
+    "chattanooga_city_charter_title01_incorporation.md": {
+      "description": "This file contains Title 1 of the Chattanooga City Charter, establishing the legal incorporation, corporate name, and perpetual existence of the City of Chattanooga, Tennessee. It outlines the city's fundamental corporate powers, including the authority to sue and be sued, acquire and dispose of property, and maintain a common seal. Research agents should consult this document to understand the foundational legal status, historical charter framing, and baseline municipal authority of the city.",
+      "source_url": "https://drive.google.com/file/d/1AmhFmCy5oEbP4jNryeURS1F1-oXyPvXu/view?usp=drivesdk",
+      "path": "/data/chattanooga_city_charter_title01_incorporation.md"
+    },
+    "chattanooga_city_charter_title02_corporate_powers.md": {
+      "description": "This file contains the verbatim full-text conversion of Title 2 of the Chattanooga City Charter, which outlines the general corporate powers and prohibitions of the city. It covers fundamental municipal authorities including property and privilege taxation, public health regulations, nuisance abatement, and the maintenance of public infrastructure like streets, sewers, and sidewalks. Research agents should consult this document to verify the legal basis and authority behind any specific Chattanooga municipal policy, tax, or regulatory action.",
+      "source_url": "https://drive.google.com/file/d/1l6DhYJq5DnRW_2yWY5tn-sODMXQ64S-V/view?usp=drivesdk",
+      "path": "/data/chattanooga_city_charter_title02_corporate_powers.md"
+    },
+    "chattanooga_city_charter_title06_finance_and_taxation.md": {
+      "description": "This file contains the full-text conversion of Title 6 of the Chattanooga City Charter, which governs municipal finance and taxation. It outlines the selection criteria for city banking institutions, financial reporting requirements for external organizations receiving city appropriations of $10,000 or more, and the legal authority to levy and collect property, business, and privilege taxes. Research agents should consult this document when investigating Chattanooga's fiscal powers, tax administration, or financial accountability frameworks.",
+      "source_url": "https://drive.google.com/file/d/1fFQBLd8ei6FkAHiBNWUgBVkKurQZc9wo/view?usp=drivesdk",
+      "path": "/data/chattanooga_city_charter_title06_finance_and_taxation.md"
+    },
+    "chattanooga_city_charter_title08_distribution_of_powers.md": {
+      "description": "This file contains the verbatim full-text conversion of Title 8 of the Chattanooga City Charter, which outlines the distribution of powers and the establishment of the City Council. It covers key topics such as council member qualifications, legislative authority, council officers, and the succession protocol for the chairperson to serve as interim mayor. Research agents should consult this document to analyze the separation of powers, legislative structures, and governance rules in Chattanooga.",
+      "source_url": "https://drive.google.com/file/d/14SChLK4uYVopUIWTpr3L2ECDj21rboTW/view?usp=drivesdk",
+      "path": "/data/chattanooga_city_charter_title08_distribution_of_powers.md"
+    },
+    "chattanooga_city_charter_title09_boards_commissions.md": {
+      "description": "This file contains the full-text conversion of Title 9 of the Chattanooga City Charter, which outlines the legal framework for municipal boards and commissions. It specifically details the City Council's authority to regulate and license trade professions through the Board of Electrical Examiners and Boards of Plumbing Examiners, while noting repealed boards such as the hospital and historical commissions. Research agents should consult this document when investigating the structural organization, licensing powers, and historical evolution of Chattanooga's regulatory boards.",
+      "source_url": "https://drive.google.com/file/d/1KL43-v167hQlFsyvkrSNw-0ET7JcX4y5/view?usp=drivesdk",
+      "path": "/data/chattanooga_city_charter_title09_boards_commissions.md"
+    },
+    "chattanooga_city_charter_title12_planning_zoning.md": {
+      "description": "This file contains the verbatim full-text conversion of Title 12 of the Chattanooga City Charter, which establishes the legal framework for planning, zoning, and development. It details the creation and authority of the Municipal Planning Commission, regional planning agreements, and the city's power to regulate land use, building sizes, population density, and flood zones. Research agents should consult this document to understand the foundational statutory authority governing Chattanooga's zoning ordinances and planning initiatives.",
+      "source_url": "https://drive.google.com/file/d/1J8BX-LUOLLiuo1pnPJCFL6lVShCooJz_/view?usp=drivesdk",
+      "path": "/data/chattanooga_city_charter_title12_planning_zoning.md"
+    },
+    "chattanooga_city_charter_title15_public_works_streets.md": {
+      "description": "This file contains the full-text conversion of Title 15 of the Chattanooga City Charter, detailing the city's legal authority over public works, streets, sewers, and municipal airports. It outlines the city's powers regarding street grading, sidewalk maintenance, eminent domain for public improvements, and airport operations. Research agents should consult this document when investigating local infrastructure governance, public works funding, or property condemnation for public use.",
+      "source_url": "https://drive.google.com/file/d/1ciM0vLGTbLnpOCrCmw6g99uNKQNkX4nS/view?usp=drivesdk",
+      "path": "/data/chattanooga_city_charter_title15_public_works_streets.md"
+    },
+    "chattanooga_city_code_ch02_administration.md": {
+      "description": "This file contains the verbatim full-text of Chapter 2 (Administration) of the City of Chattanooga Code of Ordinances. It covers foundational administrative rules, including the design and use of the corporate seal, the mayor's duty to report officer misconduct, and official city office hours, holidays, and work schedules. Research agents should consult this document to understand the basic operational framework, administrative powers, and personnel guidelines governing Chattanooga's municipal government.",
+      "source_url": "https://drive.google.com/file/d/1hyMovYhcx6RiLSuu0mIfVbd4ZPDS6fCN/view?usp=drivesdk",
+      "path": "/data/chattanooga_city_code_ch02_administration.md"
+    },
+    "chattanooga_city_code_ch09_beautification.md": {
+      "description": "This file contains the full-text conversion of Chapter 9 (Beautification) of the Chattanooga City Code of Ordinances. It establishes the Chattanooga Public Art Commission, outlining its membership, terms of office, purpose, and duties regarding public art, memorials, and monuments on city-owned property. Research agents should consult this document when investigating local policies on public art, urban design, and municipal beautification initiatives.",
+      "source_url": "https://drive.google.com/file/d/1luNGuD5iAk-Ixjk3tn5QcKtXDNJjM4yu/view?usp=drivesdk",
+      "path": "/data/chattanooga_city_code_ch09_beautification.md"
+    },
+    "chattanooga_city_code_ch18_garbage_and_refuse.md": {
+      "description": "This file contains the full-text conversion of Chapter 18 of the Chattanooga City Code of Ordinances, which governs garbage, refuse, and waste management. It details regulations on authorized residential containers, demolition-construction waste, and general sanitary measures designed to protect public health. Research agents should consult this document when analyzing local sanitation policies, waste disposal compliance, or municipal strategies for managing litter and debris on public walking networks.",
+      "source_url": "https://drive.google.com/file/d/1B7vlhNfO6mD5wMw08ax4847fIpWqgp1G/view?usp=drivesdk",
+      "path": "/data/chattanooga_city_code_ch18_garbage_and_refuse.md"
+    },
+    "chattanooga_city_code_ch21_property_maintenance.md": {
+      "description": "This file contains the full-text conversion of Chapter 21 of the Chattanooga City Code of Ordinances, which establishes the city's Property Maintenance Code. It outlines minimum standards for residential structures, premises, sanitation, life safety, and the responsibilities of owners and occupants, incorporating the 2015 International Property Maintenance Code. Research agents should consult this document when analyzing local housing code enforcement, property upkeep liabilities, or building safety regulations.",
+      "source_url": "https://drive.google.com/file/d/1YLob4wg3Ic3cJ_dQT-oQB7CPBwC0jYNw/view?usp=drivesdk",
+      "path": "/data/chattanooga_city_code_ch21_property_maintenance.md"
+    },
+    "chattanooga_city_code_ch23_metropolitan_transit_authority.md": {
+      "description": "This file contains the full-text municipal code for Chapter 23 of the Chattanooga City Code of Ordinances, which establishes and governs the Metropolitan Transit Authority. It outlines the creation, legal powers, and board composition of the Chattanooga Area Regional Transportation Authority (CARTA), including appointment procedures and regional jurisdictional boundaries. Research agents should consult this document when investigating public transportation governance, transit authority powers, or municipal board appointments.",
+      "source_url": "https://drive.google.com/file/d/1rYxD1pXJdNAdJ0_Y9VTZwhfGyTm2_SVT/view?usp=drivesdk",
+      "path": "/data/chattanooga_city_code_ch23_metropolitan_transit_authority.md"
+    },
+    "chattanooga_city_code_ch24_motor_vehicles_and_traffic.md": {
+      "description": "This file contains the verbatim full-text of Chapter 24 of the Chattanooga City Code of Ordinances, which governs motor vehicles and traffic. It covers key municipal regulations including traffic control, speed limits, parking enforcement, and definitions for various vehicle types such as emergency vehicles, autocycles, and bicycles. A research agent should consult this document when investigating local traffic laws, parking policies, or municipal transportation regulations.",
+      "source_url": "https://drive.google.com/file/d/1RMTJ8vGev-VJCGwhBH8bUWsCpRw8EfbJ/view?usp=drivesdk",
+      "path": "/data/chattanooga_city_code_ch24_motor_vehicles_and_traffic.md"
+    },
+    "chattanooga_city_code_ch26_parks_and_playgrounds.md": {
+      "description": "This file contains the verbatim full-text of Chapter 26 of the Chattanooga City Code of Ordinances, which governs parks and playgrounds. It outlines the mayor's jurisdiction over recreational facilities, rules for controlled access, and regulations regarding vehicle operations and speed limits within city parks. Research agents should consult this document when analyzing local policies on public space management, park governance, or recreational access controls.",
+      "source_url": "https://drive.google.com/file/d/1IkywnUfOunBpIosNNRq5Ia-y3Cq1wdN-/view?usp=drivesdk",
+      "path": "/data/chattanooga_city_code_ch26_parks_and_playgrounds.md"
+    },
+    "chattanooga_city_code_ch31_sewers_mains_drainage.md": {
+      "description": "This file contains the full-text conversion of Chapter 31 of the Chattanooga City Code of Ordinances, governing sewers, mains, and drainage. It details the regulatory framework for wastewater disposal, mandatory sanitary sewer connections, stormwater management, and the administrative authority of the Wastewater Regulations and Appeals Board. Research agents should consult this document when analyzing local environmental policies, green infrastructure funding mechanisms, or municipal utility compliance requirements.",
+      "source_url": "https://drive.google.com/file/d/1vq-dVodWKP5e0_6RgisczKLX0_gFZkEG/view?usp=drivesdk",
+      "path": "/data/chattanooga_city_code_ch31_sewers_mains_drainage.md"
+    },
+    "chattanooga_city_code_ch32_streets_and_sidewalks.md": {
+      "description": "This file contains the verbatim full-text conversion of Chapter 32 of the Chattanooga City Code of Ordinances, which governs streets and sidewalks. It covers critical municipal regulations including sidewalk maintenance duties, construction standards, public right-of-way obstructions, street cuts, and utility franchise equipment requirements. Research agents should consult this document when investigating local policies on public infrastructure, pedestrian access, right-of-way management, or municipal liability.",
+      "source_url": "https://drive.google.com/file/d/1pFKZQ9fdQ-74fuJNsdIwju7zs5f8WwQi/view?usp=drivesdk",
+      "path": "/data/chattanooga_city_code_ch32_streets_and_sidewalks.md"
+    },
+    "chattanooga_city_code_ch38_zoning.md": {
+      "description": "This file contains the verbatim full-text of Chapter 38 (Zoning) of the Chattanooga City Code of Ordinances, codified through Ordinance No. 14347 in April 2026. It establishes the city's comprehensive land use regulations, zoning districts, development standards, and administrative procedures. A research agent should consult this document when investigating local zoning classifications, parking minimums, sidewalk requirements, housing affordability policies, or land use restrictions.",
+      "source_url": "https://drive.google.com/file/d/1axb2YFKh03ezjE241RCSjGh8mR3IG76m/view?usp=drivesdk",
+      "path": "/data/chattanooga_city_code_ch38_zoning.md"
+    },
+    "chattanooga_research_brief_01_situation_and_decision_history.md": {
+      "description": "This research brief provides a comprehensive situation report and decision history on Chattanooga's public infrastructure, including streets, sidewalks, transit, and parks as of August 2026. It contains critical corrections regarding sidewalk regulations, clarifying that Chattanooga Code sections 32-101 through 32-109 govern sidewalk maintenance rather than the erroneously cited Chapter 136 of Asbury, Iowa. A research agent should consult this file to analyze historical municipal funding decisions, verify legal citations regarding property owner liabilities, or understand the baseline state of Chattanooga's physical infrastructure.",
+      "source_url": "https://drive.google.com/file/d/1i99b7MUDtUTJvJ01YCutcQ8MPHTlrxUm/view?usp=drivesdk",
+      "path": "/data/chattanooga_research_brief_01_situation_and_decision_history.md"
+    },
+    "chattanooga_research_brief_02_legal_and_jurisdictional_landscape.md": {
+      "description": "This research brief analyzes the legal and jurisdictional landscape governing Chattanooga's municipal powers, specifically focusing on transportation and growth management. It evaluates the constitutional and statutory limits on impact fees, development taxes, regulatory fees, and special assessments under Tennessee law. Research agents should consult this document to assess the legal feasibility of proposed local policy instruments, infrastructure funding mechanisms, and land-use regulations.",
+      "source_url": "https://drive.google.com/file/d/1ZIdkmfmGT5os-A8CXDpg91XLjLoXA4Xj/view?usp=drivesdk",
+      "path": "/data/chattanooga_research_brief_02_legal_and_jurisdictional_landscape.md"
+    },
+    "chattanooga_research_brief_03_political_fiscal_and_decision_landscape.md": {
+      "description": "This research brief analyzes Chattanooga's infrastructure decision-making, political alignments, and fiscal landscape as of August 2026. It evaluates the legal and institutional authority, fiscal capacity, and programmatic performance of key actors including the Mayor, City Council, CARTA, and the regional MPO under the One Chattanooga Plan. Research agents should consult this document to understand the political, budgetary, and structural constraints shaping local infrastructure policy and capital improvement decisions.",
+      "source_url": "https://drive.google.com/file/d/1Ei2RFUcpa2t30_iBSjp2ZC2q9sti_lBj/view?usp=drivesdk",
+      "path": "/data/chattanooga_research_brief_03_political_fiscal_and_decision_landscape.md"
+    },
+    "chattanooga_research_brief_04_infrastructure_barriers_and_navigation.md": {
+      "description": "This research brief analyzes the procedural, financial, and administrative barriers that residents and neighborhood groups face when navigating Chattanooga's community-scale infrastructure processes. It covers key municipal topics such as the 311 system, City Code requirements for abutting property owner sidewalk maintenance, block party permitting fees and insurance thresholds, and the Chattanooga Land Bank Authority's RFP process. A research agent should consult this document when investigating equity in municipal service delivery, barriers to neighborhood-led public space improvements, or policy alternatives for lowering administrative thresholds.",
+      "source_url": "https://drive.google.com/file/d/1luREyqvhM7WOckrTmrUYaN1gdjJxFO_D/view?usp=drivesdk",
+      "path": "/data/chattanooga_research_brief_04_infrastructure_barriers_and_navigation.md"
+    },
+    "chattanooga_research_brief_05_infrastructure_equity_theory_of_change.md": {
+      "description": "This research brief analyzes infrastructure equity in Chattanooga, focusing on vulnerable populations, transit access, and theories of change for durable policy. It covers key municipal topics including transportation planning (CHCRPA, RTP, CARTA), displacement risks, and comparative urban policy failure modes. A research agent should consult this file when investigating infrastructure equity, transit-oriented development, displacement mitigation, or public engagement data regarding transportation and basic connectivity.",
+      "source_url": "https://drive.google.com/file/d/1FRN5f_7U8fmoHAEE3tqaq4kN1UpCHcAc/view?usp=drivesdk",
+      "path": "/data/chattanooga_research_brief_05_infrastructure_equity_theory_of_change.md"
+    },
+    "chattanooga_research_brief_06_pedestrian_and_bicycle_networks.md": {
+      "description": "A decision-grade research briefing evaluating pedestrian and bicycle network interventions under fiscal constraints in Chattanooga, TN. It analyzes sidewalk maintenance responsibility under Chattanooga City Code §§ 32-101, 32-103, 32-105, and 32-231(16), comparing the city's abutting-owner model with peer cities, and explores low-cost safety countermeasures, funding strategies, and Tennessee constitutional constraints. A research agent should consult this brief when investigating local infrastructure funding, pedestrian safety, sidewalk ADA compliance, active transportation policy, or municipal liability and cost-sharing models for public works.",
+      "source_url": "https://drive.google.com/file/d/1kO2omspnOuKA7WZWeZ9VqtXgTEfwbGOE/view?usp=drivesdk",
+      "path": "/data/chattanooga_research_brief_06_pedestrian_and_bicycle_networks.md"
+    },
+    "chattanooga_research_brief_07_parks_greenways_canopy_and_facility_quality.md": {
+      "description": "This research brief analyzes evidence-based strategies for expanding equitable park access, greenways, and tree canopy in Chattanooga without issuing new bonds. It evaluates low-capital interventions such as shared-use schoolyards, vacant lot conversions, and ADA retrofits against the goals of the city's 2023 Parks and Outdoors Plan. A research agent should consult this document when investigating public infrastructure planning, park equity metrics, urban forestry, or municipal asset management.",
+      "source_url": "https://drive.google.com/file/d/1e7MHYOpCH0pdtvQFAifm6xfr11u9gdAH/view?usp=drivesdk",
+      "path": "/data/chattanooga_research_brief_07_parks_greenways_canopy_and_facility_quality.md"
+    },
+    "chattanooga_research_brief_08_transit_and_equitable_access.md": {
+      "description": "This research brief evaluates evidence-based strategies to improve transit utility, service performance, and equitable access in Chattanooga under the governance constraints of City Code Section 23-14. It covers transit network redesigns, transit signal priority, sidewalk connectivity, fare-free programs, and microtransit. Research agents should consult this file when analyzing local transportation policy, infrastructure funding, or the division of authority between the City and CARTA.",
+      "source_url": "https://drive.google.com/file/d/1lxp5fJrk7SKFhnsstm1Kn1xNIEucvTsU/view?usp=drivesdk",
+      "path": "/data/chattanooga_research_brief_08_transit_and_equitable_access.md"
+    },
+    "chattanooga_research_brief_09_roads_traffic_safety_and_parking.md": {
+      "description": "This research brief evaluates pavement management, road safety, and parking policy interventions tailored to Chattanooga's fiscal and legal context. It covers key topics such as pavement preservation optimization, speed management, Vision Zero frameworks, and the elimination of off-street parking minimums under Tennessee municipal authority. Research agents should consult this file when investigating local transportation infrastructure, traffic safety countermeasures, parking reforms, or capital improvement planning.",
+      "source_url": "https://drive.google.com/file/d/1Z5C67FgZIErf3Lc8Sb5fmJBMpYuC4QOt/view?usp=drivesdk",
+      "path": "/data/chattanooga_research_brief_09_roads_traffic_safety_and_parking.md"
+    },
+    "chattanooga_research_brief_10_infrastructure_allocation_and_maintenance_funding.md": {
+      "description": "This research brief analyzes infrastructure maintenance funding and allocation strategies across U.S. cities, offering comparative case studies and policy recommendations tailored to Chattanooga's fiscal constraints. It covers key topics such as life-cycle asset management, equity-driven resource distribution, and legally permissible funding mechanisms under Tennessee general law. Research agents should consult this document when investigating municipal public works, capital improvement planning, or equitable infrastructure budgeting.",
+      "source_url": "https://drive.google.com/file/d/1OUOpwETSGmCZBcSoPUqhkB3uas3fCvTr/view?usp=drivesdk",
+      "path": "/data/chattanooga_research_brief_10_infrastructure_allocation_and_maintenance_funding.md"
+    },
+    "chattanooga_research_brief_11_governance_transparency_and_nontax_revenue.md": {
+      "description": "This research brief analyzes infrastructure governance, participatory budgeting, and non-tax revenue options under Chattanooga's home-rule charter constraints. It compares neighborhood-level capital programs, performance audits, and municipal transparency dashboards across various U.S. cities. Research agents should consult this document when investigating community-led capital allocation, fiscal transparency tools, or alternative revenue generation strategies within Tennessee's legal framework.",
+      "source_url": "https://drive.google.com/file/d/1OFtJs7wB_Pxp9zsAU4SodpMk5maRAbIE/view?usp=drivesdk",
+      "path": "/data/chattanooga_research_brief_11_governance_transparency_and_nontax_revenue.md"
+    },
+    "chattanooga_research_brief_12_infrastructure_policy_gaps.md": {
+      "description": "This research brief identifies high-impact infrastructure and transit policies missing from Chattanooga's municipal agenda, such as leading pedestrian intervals, automated speed enforcement, and transit fare capping. It evaluates these interventions against peer cities and outlines how Chattanooga can implement them under its home-rule authority. Research agents should consult this file when investigating local transportation policy gaps, pedestrian safety improvements, or transit optimization strategies.",
+      "source_url": "https://drive.google.com/file/d/1y1wIbH5Ir_w7OCyb5qpQVUg40lJiYe6K/view?usp=drivesdk",
+      "path": "/data/chattanooga_research_brief_12_infrastructure_policy_gaps.md"
+    },
+    "chattanooga_fy2026_proposed_budget.pdf": {
+      "description": "This document contains the City of Chattanooga's proposed operating and capital budget for Fiscal Year 2026, as presented by Mayor Tim Kelly under the 'One Chattanooga' framework. It details comprehensive revenue and expense overviews, departmental financials, enterprise funds like stormwater and wastewater, and the capital improvements budget spanning 2026-2030. Research agents should consult this file to analyze municipal spending priorities, departmental resource allocations, capital project planning, and the legislative ordinances governing the city's public funds.",
+      "source_url": "https://drive.google.com/file/d/1tcGiYLO2xkfJUGUiDWRy0IS1I4wDCfBk/view?usp=drivesdk",
+      "path": "/data/chattanooga_fy2026_proposed_budget.pdf",
+      "superseded_by": "chattanooga_fy2027_proposed_budget.pdf"
+    },
+    "chattanooga_fy2027_proposed_budget.pdf": {
+      "description": "This document contains the City of Chattanooga's Proposed Operating and Capital Budget for Fiscal Year 2027, detailing projected revenues, departmental expenditures, and capital improvement plans. It covers key municipal areas such as general government operations, public safety, public works, enterprise funds (including wastewater and stormwater), and personnel allocations. Research agents should consult this file to analyze municipal funding priorities, evaluate capital project plans, or investigate departmental resource allocations for FY 2027.",
+      "source_url": "https://drive.google.com/file/d/18QFL1uSQB4F5JKhuJ1an2ipfIodJnNht/view?usp=drivesdk",
+      "path": "/data/chattanooga_fy2027_proposed_budget.pdf",
+      "describe_as": "the FY2027 proposed budget (name the section, e.g. the five-year capital plan in the FY2027 proposed budget)"
+    },
+    "chattanooga_form_based_code_review_checklist.pdf": {
+      "description": "This document is the official Form-Based Code (FBC) Plan Review Checklist used by the City of Chattanooga for permitting properties within the Downtown FBC Zoning district under City Code Sec. 38-698, Article XVI. It outlines compliance requirements for lot parameters, building coverage, setbacks, building frontage, and adjacent zoning protections. Research agents should consult this checklist to understand the practical administrative requirements, spatial standards, and review processes applied to downtown development projects.",
+      "source_url": "https://drive.google.com/file/d/1ef-I1GXt9fiVGnnBCjJX3xI1qMomU-5A/view?usp=drivesdk",
+      "path": "/data/chattanooga_form_based_code_review_checklist.pdf"
+    },
+    "chattanooga_zoning_ordinance_amendments_2026.pdf": {
+      "description": "This document contains approved and pending amendments to the City of Chattanooga Zoning Ordinance, updated through March 13, 2026. It details modifications across multiple articles, including updated definitions for flood-related erosion, basement structures, and protected zones within the Downtown Form-based Code. Research agents should consult this file to verify the most recent local land-use regulations and zoning definitions that may not yet be integrated into the quarterly Municode updates.",
+      "source_url": "https://drive.google.com/file/d/1-457KmPJqzjfOlqzjQmG4mjCubzLnFtE/view?usp=drivesdk",
+      "path": "/data/chattanooga_zoning_ordinance_amendments_2026.pdf"
+    },
+    "chattanooga_governance_and_legal_foundations_guide.md": {
+      "description": "This root guide serves as the primary entry point and operational manual for the Chattanooga research corpus, detailing critical structural overviews and retrieval warnings. It highlights five foundational legal realities, including sidewalk maintenance liabilities, CARTA's transit authority versus city parking powers, home rule taxing limitations, and zoning code cross-reference gaps. Research agents must consult this document first to understand the corpus layout, avoid common data extraction traps, and establish the baseline legal framing of the city's municipal powers.",
+      "source_url": "https://drive.google.com/file/d/1IJzY_kRu-0sCXbKXWBbZ6D-lAviZ2pQR/view?usp=drivesdk",
+      "path": "/data/chattanooga_governance_and_legal_foundations_guide.md"
+    },
+    "chattanooga_municipal_meetings_topics_and_transcripts.csv": {
+      "description": "This dataset contains structured transcripts, extracted quotes, and categorized topics from various Chattanooga municipal meetings, including Budget Sessions and Beer & Wrecker Board meetings. It covers key local governance issues such as public safety compensation, business licensing, towing regulations, and noise code enforcement. Research agents should consult this file to analyze public testimony, official deliberations, and community opinions regarding local regulatory enforcement and municipal resource allocation.",
+      "source_url": "https://drive.google.com/file/d/1XzbttOxfdwff_2SMJlbD0gTXUQHMaWJd/view?usp=drivesdk",
+      "path": "/data/chattanooga_municipal_meetings_topics_and_transcripts.csv"
+    },
+    "Audit1705StreetPaving.pdf": {
+      "description": "City of Chattanooga Office of Internal Audit report 17-05 on the street paving program, documenting lane-miles managed, annual repaving throughput, the resulting citywide repaving cycle length, pavement condition ratings, and deferred maintenance cost estimates. Research agents should consult this file for the authoritative figures behind Chattanooga's street resurfacing backlog.",
+      "source_url": "https://chattanooga.gov/sites/default/files/resources/Audit1705StreetPaving.pdf",
+      "path": "/data/Audit1705StreetPaving.pdf"
+    }
+  },
+  "tools": {
+    "chattanooga_neighborhood_associations_gis": {
+      "api": "https://pwgis.chattanooga.gov/server/rest/services/Neighborhoods/Neighborhood_Associations_View/FeatureServer/0/query?where=1=1&outFields=NAME,DISTRICT,COUNCIL_DISTRICT,ACRES&f=geojson",
+      "description": "Chattanooga GIS REST API endpoint providing GeoJSON boundaries for 137 official neighborhood associations and 9 City Council districts. Useful for resolving addresses, intersections, or GPS coordinates to their corresponding neighborhood and council district (e.g., for spatial joins or evaluating geographic distribution)."
+    }
+  }
+}
