@@ -22,7 +22,6 @@
     "peerDependencies": {
         "d3": "^7.0.0"
     },
-    "homepage": "https://github.com/Jigsaw-Code/sensemaking-tools/tree/main/visualization-library#readme",
     "devDependencies": {
         "@storybook/addon-essentials": "^8.6.12",
         "@storybook/blocks": "^8.6.12",
@@ -43,13 +42,10 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/Jigsaw-Code/sensemaking-tools.git",
-        "directory": "visualization-library"
+        "url": "git+https://github.com/Jigsaw-Code/sensemaking-case-studies.git",
+        "directory": "wcbgb/visualization-library"
     },
     "keywords": [],
     "author": "",
-    "license": "ISC",
-    "bugs": {
-        "url": "https://github.com/Jigsaw-Code/sensemaking-tools/issues"
-    }
+    "license": "Apache-2.0"
 }

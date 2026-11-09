@@ -1,7 +1,8 @@
-
 # Backend
 
-This project is an example node (express) server integrating the Participation AI library currently in development.
+> **Note:** This package is **archival, unmaintained, and read-only**, preserved as part of the **What Could BG Be?** case study (see [../README.md](../README.md)).
 
-Typically, you would run this code with `npm run dev` from the web-ui repo.
+This project is an example Node (Express) server integrating the Sensemaker library.
+
+Typically, you would run this code with `npm run dev` from the `web-ui` directory.
 However, you can separately run via `npm start`.

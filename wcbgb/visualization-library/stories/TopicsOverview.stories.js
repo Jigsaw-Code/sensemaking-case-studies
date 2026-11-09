@@ -1,8 +1,7 @@
 import "../src/sensemaker-chart.js";
 import { scriptWarning } from "./shared/scriptWarning.js";
 
-const basePath =
-  process.env.NODE_ENV === "production" ? "/sensemaking-tools/visualization-docs" : "";
+const basePath = "";
 const defaultColors = [
   "#AFB42B",
   "#129EAF",

@@ -17,9 +17,9 @@
 # questions.
 #
 # Sample command:
-# bash case_studies/wtp/post_round_1_processing.sh \
+# bash wtp/post_round_1_processing.sh \
 #      --input_csv ~/Downloads/immigration.csv \
-#      --output_dir case_studies/wtp/output \
+#      --output_dir wtp/output \
 #      --api_key 1234abc
 #      --one_line_question_text \
 #      --round_1_question_response_text "Q3.1,Q5.1,Q7.1,Q9.3" \

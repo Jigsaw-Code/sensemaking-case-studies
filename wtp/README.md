@@ -1,5 +1,7 @@
 # **We The People**
 
+> **Note:** The code in this directory is **archival, unmaintained, and read-only**, provided solely for transparency and replication of the **We the People** case study. For Jigsaw's active, maintained Sensemaking AI pipeline, please visit [Jigsaw Sensemaking Tools](https://github.com/Jigsaw-Code/sensemaking-tools).
+
 [We The People](https://wethepeople-250.org/) was a national public opinion research initiative, combining the depth of focus groups with the breadth of polls with an aim to identify areas of broad public agreement on America’s founding ahead of the nation’s 250th anniversary. The product of a partnership between the [Napolitan Institute](https://napolitaninstitute.org) and [Jigsaw](https://jigsaw.google/), 
 
 We The People invited thousands of Americans from every corner of the country to share their beliefs, opinions, and experiences on freedom and equality.
@@ -23,7 +25,7 @@ You can [learn more about We the People on Jigsaw’s website](https://jigsaw.go
 
 ## **The Process**
 
-This walkthrough documents the scripts used and steps taken for data processing and analysis for We the People. The code here is provided for transparency purposes only and may not work with newer models.
+This walkthrough documents the scripts used and steps taken for data processing and analysis for We the People. This historical code is archival and read-only, provided for transparency purposes only, and may not work with newer models or APIs.
 
 ### **Setup**
 

@@ -17,11 +17,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "sso://participation-project-internal/participation-project"
+    "url": "git+https://github.com/Jigsaw-Code/sensemaking-case-studies.git",
+    "directory": "wcbgb"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "Apache-2.0",
   "devDependencies": {
     "@eslint/js": "^9.21.0",
     "@types/jest": "^29.5.12",

@@ -1,5 +1,7 @@
 # Sensemaker Visualization Components
 
+> **Note:** This package is **archival, unmaintained, and read-only**, preserved as part of the **What Could BG Be?** case study (see [../README.md](../README.md)).
+
 A collection of reusable visualization components for displaying Sensemaker data, built with D3.js and Web Components.
 
 ### Installation
@@ -17,50 +19,18 @@ This will start the Storybook server at `http://localhost:6006`. You can view an
 > **Note:** The Storybook stories use sample data from the `stories/data` directory. To view all stories correctly, ensure you have both a `comments.json` and a `summary.json` file present in `stories/data/`.
 
 ### Building the Package
-To build the package for production:
+To build the package:
 ```bash
 npm run build
 ```
 The compiled files will be output to the `dist/` directory.
 
-### Building Storybook Docs
-To build the static Storybook documentation site:
+### Building Storybook Docs Locally
+To build a local static Storybook site:
 ```bash
 npm run build-storybook
 ```
-The static site will be output to the `storybook-static/` directory. You can deploy this directory to any static site host.
-
-### Publishing to npm
-
-To publish a new version of the package to npm, follow these steps:
-
-1. Make sure you are logged in to npm:
-    ```bash
-    npm login
-    ```
-2. Update the version number using one of the following commands (this will automatically update `package.json` and create a Git commit and tag):
-    - For a **patch** update (bug fixes, backwards compatible):
-      ```bash
-      npm version patch
-      ```
-    - For a **minor** update (new features, backwards compatible):
-      ```bash
-      npm version minor
-      ```
-    - For a **major** update (breaking changes):
-      ```bash
-      npm version major
-      ```
-3. Build the package:
-    ```bash
-    npm run build
-    ```
-4. Publish to npm:
-    ```bash
-    npm publish
-    ```
-
-> **Note:** The `npm version` command will automatically update the version in `package.json`. Always ensure your changes are committed before publishing.
+The static site will be output to the `storybook-static/` directory.
 
 ## Data Source and License
 

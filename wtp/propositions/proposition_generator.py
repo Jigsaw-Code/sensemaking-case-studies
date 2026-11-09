@@ -401,7 +401,7 @@ async def main():
   parser.add_argument(
       "--sample_save_dir",
       type=str,
-      default="case_studies/wtp/testdata/prompts",
+      default="testdata/prompts",
       help="The output directory for the generated print file.",
   )
   parser.add_argument(

@@ -1,6 +1,6 @@
 # Summarization Output
 
-The output of the summarization process is a narrative report that can be generated as JSON, Markdown, CSV or HTML. The output consists of several sections outlined below. To learn how to generate a summary using this code, check the \[readme\](./readme.md)..
+The output of the summarization process is a narrative report that can be generated as JSON, Markdown, CSV or HTML. The output consists of several sections outlined below. To learn how to generate a summary using this code, check the [README](./README.md).
 
 ## **Introduction Section**
 

@@ -12,6 +12,12 @@
     "dev": "concurrently --kill-others \"npm run start:api-server\" \"npm run start:web-ui\""
   },
   "private": true,
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jigsaw-Code/sensemaking-case-studies.git",
+    "directory": "wcbgb/web-ui"
+  },
   "dependencies": {
     "@angular/animations": "19.2.25",
     "@angular/cdk": "19.2.19",

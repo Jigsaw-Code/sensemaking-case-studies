@@ -1,17 +1,9 @@
-# Contributing to sensemaking-reports
+# Contributing to sensemaking-case-studies
 
-Want to contribute? We're happy to accept pull requests!
+This repository is **archival and read-only**. It preserves the historical code used for the **What Could BG Be?** and **We the People** case studies for transparency and replication purposes, and is not accepting pull requests, issues, or external contributions.
 
-## Contributor License Agreement
-
-Contributions to this project must be accompanied by a Contributor License Agreement (CLA). You (or your employer) retain the copyright to your contribution; this simply gives us permission to use and redistribute your contributions as part of the project.
-
-Head over to <https://cla.developers.google.com/> to see your current agreements on file or to sign a new one.
-
-## Code Reviews
-
-All submissions, including submissions by project members, require review. We use GitHub pull requests for this purpose. Consult GitHub Help for more information on using pull requests.
+For active development and the latest Sensemaking AI pipeline, please visit [Jigsaw Sensemaking Tools](https://github.com/Jigsaw-Code/sensemaking-tools).
 
 ## Community Guidelines
 
-Please adhere to the Google Open Source Code of Conduct during all interactions with this project.
+Please adhere to the [Google Open Source Code of Conduct](./CODE_OF_CONDUCT.md) during all interactions with this project.

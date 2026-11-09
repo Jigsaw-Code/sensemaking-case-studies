@@ -8,9 +8,14 @@
     "build": "tsc",
     "start": "npm run build && node index.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jigsaw-Code/sensemaking-case-studies.git",
+    "directory": "wcbgb/api-server"
+  },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "Apache-2.0",
   "dependencies": {
     "@babel/preset-env": "^7.25.3",
     "@google-cloud/vertexai": "^1.6.0",

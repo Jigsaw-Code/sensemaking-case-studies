@@ -42,8 +42,8 @@ Original,Prompt 1,Prompt 2
 
 Sample command:
 python -m proposition_simplification_runner \
-    --input_csv case_studies/wtp/proposition_simplification.csv \
-    --output_csv case_studies/wtp/proposition_simplification_output.csv \
+    --input_csv proposition_simplification.csv \
+    --output_csv proposition_simplification_output.csv \
     --project YOUR_PROJECT \
     --location global \
     --model_name gemini-2.5-pro
